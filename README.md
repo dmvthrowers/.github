@@ -2,7 +2,7 @@ DMV Throwers · Friendly Yoyo & Skill Toy Community
 This GitHub repository is for shared community guidance, documentation, and support for yo-yo fun across the DC, Maryland, and Virginia area.
 
 🎉 Check out our main website for events, meetups, and club info:
-👉 dmvthrowers.club
+👉 https://dmvthrowers.club
 
 About DMV Throwers
 DMV Throwers is a child-friendly, inclusive, and positive yo-yo and skill toy club.
