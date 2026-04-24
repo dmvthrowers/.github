@@ -1,17 +1,34 @@
-DMV Throwers — Yo-Yo & Skill Toy Club
-The Washington DC, Northern Virginia, and Maryland yo-yo and skill toy community.
+DMV Throwers · Friendly Yoyo & Skill Toy Community
+This GitHub repository is for shared community guidance, documentation, and support for yo-yo fun across the DC, Maryland, and Virginia area.
 
-We're a free, volunteer-run club that hosts monthly meetups, workshops, and competitive events — open to all ages and skill levels. Whether you throw yo-yos, spin kendama, juggle, or just want to learn, you're welcome here.
+🎉 Check out our main website for events, meetups, and club info:
+👉 dmvthrowers.club
 
-What We Do
-Monthly Meetups — Every 3rd Sunday, 1–4 PM at Arlington Central Library (Arlington, VA). Free, no registration, loaner yo-yos available.
-VSYC-26 — We're organizing the 16th annual Virginia State Yo-Yo Contest on September 19, 2026 at Dulles Town Center in Sterling, VA. Free to spectate, $15–25 to compete.
-Community — Skill-sharing, trick circles, beginner lessons, and a welcoming space for the DMV skill toy scene.
-Links
-Website	dmvthrowers.club
-VSYC-26	dmvthrowers.club/vsyc26.html
-Instagram	@dmv_throwers
-Linktree	linktr.ee/dmvthrowers
-Ko-fi	ko-fi.com/dmvthrowers
-Contact	contact@dmvthrowers.club
-Est. 2021 · Arlington, VA · Free to join · All skill levels welcome
+About DMV Throwers
+DMV Throwers is a child-friendly, inclusive, and positive yo-yo and skill toy club.
+We welcome everyone interested in yo-yos, kendama, juggling, diabolo, and more—regardless of age or experience!
+
+Safety and respect are our biggest priorities.
+Our club encourages learning, sharing, and creativity in a fun environment.
+We follow secure, welcoming, and family-safe best practices in all our club spaces—online and offline.
+Important Links
+🌐 Main Club Site: dmvthrowers.club
+📸 Instagram: @dmv_throwers
+☕ Support the club: ko-fi.com/dmvthrowers
+📅 Events, resources, and contest info: dmvthrowers.club/events.html
+Looking to Join In?
+Visit our website: dmvthrowers.club
+(all meetups, contest info, and news are posted there!)
+Follow the club rules to keep things friendly and safe.
+Come say hi! We love newcomers—even if you’ve never thrown a yo-yo before.
+Club Guidelines
+Be kind, helpful, and respectful to everyone.
+No inappropriate or unsafe content—ever!
+Share skill toy knowledge and help others learn.
+All ages & skill levels are welcome.
+We foster a secure, supportive, and positive atmosphere for youth and families.
+Questions or concerns?
+Reach us at contact@dmvthrowers.club
+
+This repository is part of the DMV Throwers community.
+Visit dmvthrowers.club for the full site!
