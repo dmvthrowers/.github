@@ -45,10 +45,7 @@ jobs:
         run: pnpm audit --audit-level=high
         continue-on-error: false
 
-  # ── yoyomap standalone Next.js app ───────────────────────────────────────
-  check-yoyomap:
-    name: yoyomap — Typecheck, Lint & Audit
-  # ── yoyomap app: typecheck + lint ────────────────────────────────────────────
+  # ── yoyomap app: typecheck + lint ────────────────────────────────────────
   typecheck-and-lint:
     name: Typecheck & Lint (yoyomap)
     runs-on: ubuntu-latest
