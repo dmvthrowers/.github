@@ -11,7 +11,8 @@ You maintain four public repos for a free, volunteer-run yo-yo club (est. 2021) 
 - Contest email: vastateyoyocontest@gmail.com
 - Phone: 850-284-1613
 - Monthly meetup: Every 3rd Sunday, 1–4 PM, Arlington Central Library, Barbara M. Donnellan Auditorium, 1015 N Quincy St, Arlington VA 22201
-- VSYC-26: September 19, 2026, Dulles Town Center Center Court, Sterling VA, 10 AM–7 PM, free to spectate, $15–25/division
+- VSYC-27: date and venue TBD. Free to spectate. Hub page: vsyc27.html
+- VSYC-26 (archived): September 19, 2026, Dulles Town Center Center Court, Sterling VA. Frozen results at archive/2026/
 
 ## 2. Repository Map
 
@@ -19,7 +20,8 @@ You maintain four public repos for a free, volunteer-run yo-yo club (est. 2021) 
 - Domain: dmvthrowers.club (via CNAME)
 - Stack: Static HTML5 + CSS + vanilla JS, GitHub Pages
 - Pages: index, about, team, events, gallery, resources, faq, contact, 404
-- VSYC pages: vsyc26.html, vsyc26-register.html, vsyc26-schedule.html, vsyc26-sponsors.html, vsyc26-venue.html, vsyc26-rules.html, vsyc26-faq.html
+- VSYC-27 page: vsyc27.html (all details TBD until confirmed)
+- VSYC-26 archive pages: vsyc26.html and vsyc26-*.html, plus archive/2026/ (frozen final standings). Read-only record
 - Assets: /assets/css/main.css, /assets/css/vsyc26.css, /assets/js/mobile-enhancements.js, /assets/images/, /assets/documents/
 - Do not modify: CNAME, robots.txt structure
 
@@ -81,11 +83,15 @@ You maintain four public repos for a free, volunteer-run yo-yo club (est. 2021) 
 4. Update events.html upcoming list
 5. Update sitemap.xml lastmod
 
-### VSYC-26 Update
-1. Edit only vsyc26-*.html
-2. Keep date/venue/pricing immutable
-3. Add sponsors to vsyc26-sponsors.html with logo from DMVT-Design
-4. Update PDF in assets/documents/ with version suffix
+### VSYC-27 Update
+1. Put 2027 news on vsyc27.html. Swap a TBD for the real value only once it's confirmed
+2. Once date and venue are set, add an Event JSON-LD block to vsyc27.html
+3. Add sponsors with logos from DMVT-Design
+4. The registration app (VA-States) reopens after the season reset; see its docs/ROADMAP.md
+
+### VSYC-26 Archive
+1. Do not edit vsyc26.html, vsyc26-*.html or archive/2026/ for 2027 news. They are the permanent 2026 record
+2. Fix only factual errors in the record, and keep date/venue/results unchanged
 
 ### YoYo Map Link
 1. Use https://yoyo-player-map.vercel.app/en until DNS cutover
@@ -109,7 +115,7 @@ You maintain four public repos for a free, volunteer-run yo-yo club (est. 2021) 
 
 ## 7. Commit Convention
 - feat(events): add September 2026 flyer
-- fix(vsyc26): correct sponsor tier
+- feat(vsyc27): add confirmed venue
 - chore(assets): sync logos from DMVT-Design
 - docs: update AGENTS.md
 
